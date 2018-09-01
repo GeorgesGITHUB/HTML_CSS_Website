@@ -1,0 +1,44 @@
+.skills_list{
+    margin-bottom: 5px;
+    text-align: left
+}
+
+.top-paragraph {
+    background: white;
+    padding: 5px 10px;
+}
+
+.top-paragraph h3 {
+    border-bottom: 1px solid black;
+    padding-bottom: 3px;
+}
+
+main div.picture img {
+    width: 100%;
+}
+
+.team-member-card {
+    background: white;
+    padding: 0px 20px;
+    padding-bottom: 0px;
+}
+
+.team-member-card .content-div {
+    border-left: 1px solid black;
+}
+
+.title-row {
+    margin-bottom: 0px;
+    padding: 3px;
+    border-bottom: 1px solid black;
+}
+
+.team-member-card img.team-contact-icon {
+    margin: 5px;
+}
+
+#page-title {
+    display: inline-block;
+    padding: 10px;
+    background: white;
+}

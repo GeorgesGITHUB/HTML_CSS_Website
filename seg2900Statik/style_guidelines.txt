@@ -1,0 +1,24 @@
+Colors:
+
+#FFAF87     : "Macaroni"
+#FF8E72     : Peachish
+#ED6A5E     : Pink but more redish
+#4CE0B3     : Bright neon blue green (more blue)
+#377771     : Dark blue green
+
+Overall Look and Feel of Simmer:
+The overall look and feel of the Simmer website will be flat and mello and colorful. We want the website to be fun and upbeat but not too childish or flashy.
+
+Typography:
+The font we chose for the website is Roboto from Google Fonts.
+https://fonts.google.com/specimen/Roboto
+
+Buttons:
+Buttons will be flat, but will stand out and will change colors when hovered over.
+
+Iconography:
+Icons on the website will be minimalist and indicate the purpose of buttons intuitively.
+
+Links:
+Links will be underlined in text. They will be Salmon color and Macaroni and Cheese color when hovered over.
+
